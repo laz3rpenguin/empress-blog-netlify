@@ -1,6 +1,6 @@
 ---
-title: iOS 13 Beta Review.
-image: /images/ios13header.jpg
+title: iOS 13 Beta Review
+image: /images/ios13header_cropped.jpg
 imageMeta:
   attribution: Apple
   attributionLink:
@@ -9,7 +9,7 @@ authors:
   - will
 date: Tue Jun 27 2019 10:20:30 GMT+0100 (IST)
 tags:
-  - ios13
+  - iOS 13
 ---
 ### It's that time of year again
 
